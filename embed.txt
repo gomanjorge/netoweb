@@ -1,0 +1,1 @@
+<embed src="happy.mid" volume=100 width=50 height=15 controls=smallconsole autostart=true>
